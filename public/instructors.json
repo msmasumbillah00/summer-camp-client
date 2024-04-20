@@ -1,0 +1,82 @@
+[
+    {
+        "image": "https://i.pinimg.com/236x/5c/87/f7/5c87f7e6b2001ab7c822765dec377e6e.jpg",
+        "name": "John Smith",
+        "email": "john@example.com",
+        "classesTaken": 5,
+        "classes": ["Introduction to Photography", "Portrait Photography"],
+        "classesLink": "/instructor/john-smith-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/13/e4/a8/13e4a8cd2a2776c03e213cd93e6d8ca5.jpg",
+        "name": "Emily Jones",
+        "email": "emily@example.com",
+        "classesTaken": 8,
+        "classes": ["Digital Photography Essentials", "Studio Lighting Secrets"],
+        "classesLink": "/instructor/emily-jones-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/8a/23/71/8a23718112e547c111246aca283f3fc8.jpg",
+        "name": "Michael Brown",
+        "email": "michael@example.com",
+        "classesTaken": 6,
+        "classes": ["Landscape Photography Techniques", "Street Photography Mastery"],
+        "classesLink": "/instructor/michael-brown-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/7e/81/8b/7e818b4a992860343e35026b6b0aa58b.jpg",
+        "name": "Sarah Lee",
+        "email": "sarah@example.com",
+        "classesTaken": 4,
+        "classes": ["Fashion Photography Workshop", "Fine Art Photography Exploration"],
+        "classesLink": "/instructor/sarah-lee-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/9a/77/d3/9a77d34ec81db97c5a45f75873326d6a.jpg",
+        "name": "David Clark",
+        "email": "david@example.com",
+        "classesTaken": 7,
+        "classes": ["Photojournalism and Documentary Photography", "Business and Marketing for Photographers"],
+        "classesLink": "/instructor/david-clark-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/87/ea/8c/87ea8c559ef879e57fd2d4e174188821.jpg",
+        "name": "Jessica Wang",
+        "email": "jessica@example.com",
+        "classesTaken": 3,
+        "classes": ["Portrait Photography Fundamentals", "Studio Lighting Secrets"],
+        "classesLink": "/instructor/jessica-wang-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/20/f4/71/20f4719d1bd2ad2220f2ac5c42d1b69c.jpg",
+        "name": "Andrew Taylor",
+        "email": "andrew@example.com",
+        "classesTaken": 9,
+        "classes": ["Digital Photography Essentials", "Photo Editing and Post-Processing"],
+        "classesLink": "/instructor/andrew-taylor-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/ae/98/50/ae98508418e30b64e63b9d27597d9f37.jpg",
+        "name": "Rachel Garcia",
+        "email": "rachel@example.com",
+        "classesTaken": 5,
+        "classes": ["Street Photography Mastery", "Portrait Photography Fundamentals"],
+        "classesLink": "/instructor/rachel-garcia-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/a8/e8/65/a8e8651e5ce3c18fb06d64724dffb787.jpg",
+        "name": "Kevin Patel",
+        "email": "kevin@example.com",
+        "classesTaken": 6,
+        "classes": ["Introduction to Photography", "Fine Art Photography Exploration"],
+        "classesLink": "/instructor/kevin-patel-classes"
+      },
+      {
+        "image": "https://i.pinimg.com/564x/ce/bd/70/cebd705f58fec102dd21e83e42e415ae.jpg",
+        "name": "Jennifer Kim",
+        "email": "jennifer@example.com",
+        "classesTaken": 7,
+        "classes": ["Fashion Photography Workshop", "Business and Marketing for Photographers"],
+        "classesLink": "/instructor/jennifer-kim-classes"
+      }
+]
